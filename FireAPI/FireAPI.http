@@ -1,0 +1,6 @@
+@FireAPI_HostAddress = http://localhost:5089
+
+GET {{FireAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
